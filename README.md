@@ -1,7 +1,5 @@
 # AKAZE Features OpenCV with Android Experimental Gradle Plugin
 
-akazefeaturesopencvwithexperimentalgradleplugin-melvincabatuan created by Classroom for GitHub
-
 ## Warning
 
  Note the Gradle plugin is at the experimental stage. The Gradle API for the new component model is not final, which means it'll only work with a specific version of Gradle until the APIs are final.
@@ -175,41 +173,3 @@ dependencies {
     compile project(':opencv')
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/0ce1fe072f359d28cb2db36f45f2fa5f
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/akazefeaturesopencvwithexperimentalgradleplugin-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](Selection_007.png)](https://youtu.be/wBhOKUKWWpE)
-
-
-## Screenshot:
-
-![screenshot1](device-2015-11-17-092632.png)
-
-![screenshot2](device-2015-11-17-093550.png)
-
-![screenshot3](device-2015-11-17-100924.png)
-
-
-"*Programming is like kicking yourself in the face, sooner or later your nose will bleed.*" - Kyle Woodbury
